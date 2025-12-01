@@ -14,5 +14,5 @@ A simple application for hosting an open-source voice/home assistant locally wit
 
 
 
-## Requirements:
+## Requirements && Instalation Guide:
 
